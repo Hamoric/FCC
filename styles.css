@@ -8,7 +8,9 @@ img{
   object-fit: cover;
   margin-right: auto;
   margin-left: auto;
-  
+#img-div{
+  display: block;
+  text-align: center;
 }
 figcaption{
   color: brown;
