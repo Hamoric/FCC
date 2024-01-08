@@ -1,6 +1,6 @@
 ** start of undefined **
 
-img{
+#image{
   display: block;
   max-width: 100%;
   text-align: center;
@@ -9,10 +9,7 @@ img{
   margin-right: auto;
   margin-left: auto;
 }
-#img-div{
-  display: block;
-  text-align: center;
-}
+
 figcaption{
   color: brown;
   text-align: center;
@@ -22,7 +19,7 @@ ul li{
   margin-bottom: 15px;
   color: brown;
 }
-*{
+body{
   background-color: beige;
 }
 
