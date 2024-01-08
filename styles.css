@@ -3,7 +3,6 @@
 #image{
   display: block;
   max-width: 100%;
-  text-align: center;
   height: auto;
   object-fit: cover;
   margin-right: auto;
@@ -20,7 +19,7 @@ ul li{
   color: brown;
 }
 body{
-  background: beige;
+  background-color: beige;
 }
 
 
