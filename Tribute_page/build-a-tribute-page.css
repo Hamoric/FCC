@@ -2,9 +2,8 @@
 
 img{
   display: block;
-  max-width: 100%;
-  height: auto;
   object-fit: cover;
+  width: 50%;
   margin-right: auto;
   margin-left: auto;
   
