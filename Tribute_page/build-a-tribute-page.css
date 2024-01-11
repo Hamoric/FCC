@@ -1,0 +1,30 @@
+** start of undefined **
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+figcaption{
+  color: brown;
+  text-align: center;
+}
+
+ul li{
+  margin-bottom: 15px;
+  color: brown;
+}
+*{
+  background-color: beige;
+}
+
+h1,h2, p{
+  text-align: center;
+}
+
+** end of undefined **
+
